@@ -7,3 +7,5 @@
 
 # Install Untuk Django
 pip install -r requirements.txt
+
+![Screenshot](Untitled.png)
