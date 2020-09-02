@@ -1,5 +1,5 @@
 # Install Untuk Node Js / React
--npm create-create-react-app yourappname \
+-npm create-react-app yourappname \
 -npm install react-bootstrap bootstrap \
 -npm install react-sketch --save \
 -npm i file-saver\
