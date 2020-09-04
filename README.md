@@ -1,5 +1,5 @@
-# Install Untuk Node Js / React \
-install Node Js
+# Install Untuk Node Js / React 
+~ install Node Js \
 -npm create-react-app yourappname \
 -npm install react-bootstrap bootstrap \
 -npm install react-sketch --save \
@@ -12,7 +12,7 @@ Install Python 3.xx \
 pip install -r requirements.txt \
 ~ python manage.py makemigrations \
 ~ python manage.py migrate \
-~ python manage.py runserver \
+~ python manage.py runserver 
 
 
 # Hasil Contoh Progam
