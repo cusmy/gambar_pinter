@@ -1,4 +1,4 @@
-# Install Untuk Node Js / React
+# Install Untuk Node Js / React \
 install Node Js
 -npm create-react-app yourappname \
 -npm install react-bootstrap bootstrap \
@@ -10,7 +10,9 @@ install Node Js
 # Install Untuk Django
 Install Python 3.xx \
 pip install -r requirements.txt \
-~ python manage.py runserver
+~ python manage.py makemigrations \
+~ python manage.py migrate \
+~ python manage.py runserver \
 
 
 # Hasil Contoh Progam
